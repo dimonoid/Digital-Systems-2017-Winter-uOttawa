@@ -1,0 +1,76 @@
+Chapter 5 :
+-see the corresponding pages of the course notes 
+-chapter 5 pg 42 & 43
+-function table (memorize)
+-characteristics table (memorize)
+-sequential circuit analysis
+-find equations (
+-state table (present, input, next, output)
+-characteristic functions
+-two pages important
+-list all combinations and dont miss anything
+-state diagram 
+-analyse the function from diagram
+-sequential circuit design
+-find diagram
+-no need to reduce state
+-get state table
+->flipflop type, number
+->flipflop input equation, output equation
+
+Chapter 6 :
+-counter 
+-two types(Async - Ripple counter)
+-ripple counter
+-low to high (tolgo)
+-page 71 & 72(92) idk
+
+
+Chapter 5 
+-Read p 42-43 in course notes
+-Synchronous sequential circuit analysis
+-Procedure:
+-Go from the circuit and find the equations (output, state and input)
+-Obtain state table based on equations, present state, input state, next state and output
+-Two methods to find the next state: add flip flop input equations to the table or state equation
+-Create state diagram
+-Analyze the function
+-Sequential circuit design
+-Reverse procedure of analysis
+-Words to diagram
+-Diagram to state table
+-Determine number of Flip flops needed
+-Obtain FF input equation and output eqn
+
+Chapter 6
+-Counters: Asynchronous(ripple) counters and synchronous counters
+-BCD Counter
+-Ripple Counter
+-Design
+-List all sequences
+-Synchronous Counter(refer to page 71-72 in course notes)
+-Same procedure as sequential circuit design, except there are no inputs
+-Memorize all excitation tables
+-Analysis of synchronous counter
+-Pg 86- Counter with controls
+
+Chapter 1
+-Number conversion
+-Unsigned number operations
+-Signed Complement operations
+
+Chapter 2 and 3
+-Boolean expression
+-Min and Max terms, POS, SOP and KMaps
+
+Chapter 4
+-Combinational circuits
+-Design
+-Obtain truth table
+-Use Kmap to find boolean expression
+-Draw circuit
+
+-BCD TO 7- segment decoder( pg 16-20)
+-Decoder implementation(31, 32,39,40)
+-Multiplexer(65-69,74-75)
+
